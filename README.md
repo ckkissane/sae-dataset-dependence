@@ -1,6 +1,6 @@
 Code to reproduce key results accompanying "SAEs are highly dataset dependent: A case study on the refusal direction".
 
-* [Blog Post](TODO)
+* [Blog Post](https://www.alignmentforum.org/posts/rtp6n7Z23uJpEH7od/saes-are-highly-dataset-dependent-a-case-study-on-the)
 
 # Contents
 
